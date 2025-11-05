@@ -1,0 +1,67 @@
+
+---
+
+## 🧹 **.gitignore**
+
+```gitignore
+# Build folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/options
+.vs/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Mac and Linux files
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Test results
+TestResult*/
+*.trx
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Publish outputs
+publish/
+dist/
+
+# ReSharper
+_ReSharper*/
+
+# Coverage reports
+coverage/
+
+# VS Code
+.vscode/
+
+# Other
+Thumbs.db
